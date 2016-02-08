@@ -15,6 +15,6 @@ mf <- exclude(mf, multiple)
 # remove section names
 sections <- mf[grep(' ', mf)]
 mf <- exclude(mf, sections)
-# remove 
 
 # save as one column CSV file
+write.csv(mf, "data/built-in-names.txt", row.names=F, quote=F)
