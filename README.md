@@ -5,7 +5,7 @@ Scraper for retrieving names of the matlab's built in functions and classes.
 ## MATLAB function lists
 
 Links to MATLAB built-in list for different MATLAB versions.
-
+* [R2018b](https://www.mathworks.com/help/releases/R2018b/matlab/functionlist-alpha.html)
 * [R2018a](https://www.mathworks.com/help/releases/R2018a/matlab/functionlist-alpha.html)
 * [R2017b](https://www.mathworks.com/help/releases/R2017b/matlab/functionlist-alpha.html)
 * [R2017a](https://www.mathworks.com/help/releases/R2017a/matlab/functionlist-alpha.html)
